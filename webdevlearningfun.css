@@ -103,7 +103,7 @@ height: 182px;
 background: url(MtSi.jpg) no-repeat;
 background-size: 710px 400px;
 border: 1px solid #44434c;
-position: relative;
+position: center;
 }
 
 #contentHeader[id] {
