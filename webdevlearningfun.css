@@ -101,7 +101,7 @@ margin: 15px auto;
 width: 710px;
 height: 350px;
 background: url(MtSi.jpg) no-repeat;
-background-size: auto;
+background-size: 710px 350px;
 border: 1px solid #44434c;
 position: relative;
 }
