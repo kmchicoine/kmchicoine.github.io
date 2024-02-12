@@ -48,6 +48,12 @@ body {
 	font-weight: 700;
 }
 
+/* Custom img width */
+.my-img {
+	max-width: 75%;
+	height: auto;
+  }
+
 /* Custom Button Styles */
 
 .btn-dark {
@@ -173,6 +179,19 @@ hr.small {
 	display: table;
 	position: relative;
 	width: 100%;
+	height: 50%;
+	background: url(../images/brokentopcropped.jpg) no-repeat center center scroll;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	-o-background-size: cover;
+}
+
+/* Alternate background header */
+.alternate-header {
+	display: table;
+	position: relative;
+	width: 100%;
 	height: 100%;
 	background: url(../images/soshr.jpg) no-repeat center center scroll;
 	-webkit-background-size: cover;
@@ -260,6 +279,14 @@ hr.small {
 /* Footer */
 
 footer {
-	padding: 100px 0;
+	display: table;
+	position: relative;
+	width: 100%;
+	height: 100%;
+	background: url(../images/bikepacking.jpg) no-repeat center center scroll;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	-o-background-size: cover;
 }
 
